@@ -12,5 +12,5 @@ if(jogo == 1):
     forcaJogo.jogar()
 elif(jogo == 2):
     print("Jogando Adivinhação")
-    adivinhacaoJogo.jogar()      #criei uma função "def" chamado jogar, primeiro chama a classe depois a função
+    adivinhacaoJogo.jogar()      #criei uma função "def" chamado jogar, primeiro chama a classe depois a funçã
 
